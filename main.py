@@ -1,0 +1,1 @@
+print ("乐乐说：hello linux!")
